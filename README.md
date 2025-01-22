@@ -51,5 +51,9 @@ Matriz de confusão exibida para validação.
 ## 📈 Resultados Obtidos
 
 Insights iniciais: Distribuição de clientes por churn, tipo de contrato, e método de pagamento.
+
+Modelo de Machine Learning: Acurácia acima de X%.
+
+Matriz de Confusão: Desempenho do modelo detalhado
 Modelo de Machine Learning: Acurácia acima de X%.
 Matriz de Confusão: Desempenho do modelo detalhado
